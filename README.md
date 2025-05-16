@@ -1,4 +1,4 @@
-# MSPen Recon – Automated Web Reconnaissance Toolkit 🕵️‍♂️
+# Webimion Recon – Automated Web Reconnaissance Toolkit 🕵️‍♂️
 
 MSPen Recon is a black-box web application reconnaissance automation script designed for penetration testers and bug bounty hunters. It sets up a structured recon environment with necessary tool checks, installations, Google Dorking, and parallelized scanning inside a customized `tmux` workflow.
 
